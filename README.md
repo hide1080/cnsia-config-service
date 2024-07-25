@@ -1,2 +1,2 @@
 # cnsia-config-service
-「Cloud Native Spring in Action」の読書記録。コンフィグレーションサービス
+書籍「Cloud Native Spring in Action」の config-service
